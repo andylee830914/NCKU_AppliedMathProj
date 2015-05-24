@@ -15,7 +15,7 @@ mynewton('function of x',initial position,times)
 
 ans =
 
-    4.4934
+    4.493409457909064
 
 ````
 
@@ -27,6 +27,6 @@ Use Newton's method to solve first 10 numerical solutions of $\tan(x)=x$, then c
 
 sum =
 
-    0.0029
+    0.002854577286561
 
 ````

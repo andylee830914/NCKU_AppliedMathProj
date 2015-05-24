@@ -1,4 +1,5 @@
 function root = mynewton( f,x0,k )
+format long
 syms x;
 f1=diff(f,x);
 f=inline(f);
